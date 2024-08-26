@@ -1,0 +1,177 @@
+H:\BTL Web\BTL\FlowersShop\FlowersShop\bin\FlowersShop.dll.config
+H:\BTL Web\BTL\FlowersShop\FlowersShop\bin\FlowersShop.dll
+H:\BTL Web\BTL\FlowersShop\FlowersShop\bin\FlowersShop.pdb
+H:\BTL Web\BTL\FlowersShop\FlowersShop\bin\roslyn\csc.exe
+H:\BTL Web\BTL\FlowersShop\FlowersShop\bin\roslyn\csc.exe.config
+H:\BTL Web\BTL\FlowersShop\FlowersShop\bin\roslyn\csc.rsp
+H:\BTL Web\BTL\FlowersShop\FlowersShop\bin\roslyn\csi.exe
+H:\BTL Web\BTL\FlowersShop\FlowersShop\bin\roslyn\csi.exe.config
+H:\BTL Web\BTL\FlowersShop\FlowersShop\bin\roslyn\csi.rsp
+H:\BTL Web\BTL\FlowersShop\FlowersShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\BTL Web\BTL\FlowersShop\FlowersShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\BTL Web\BTL\FlowersShop\FlowersShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+H:\BTL Web\BTL\FlowersShop\FlowersShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\BTL Web\BTL\FlowersShop\FlowersShop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+H:\BTL Web\BTL\FlowersShop\FlowersShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\BTL Web\BTL\FlowersShop\FlowersShop\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\BTL Web\BTL\FlowersShop\FlowersShop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+H:\BTL Web\BTL\FlowersShop\FlowersShop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+H:\BTL Web\BTL\FlowersShop\FlowersShop\bin\roslyn\Microsoft.Managed.Core.targets
+H:\BTL Web\BTL\FlowersShop\FlowersShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\BTL Web\BTL\FlowersShop\FlowersShop\bin\roslyn\Microsoft.Win32.Primitives.dll
+H:\BTL Web\BTL\FlowersShop\FlowersShop\bin\roslyn\System.AppContext.dll
+H:\BTL Web\BTL\FlowersShop\FlowersShop\bin\roslyn\System.Collections.Immutable.dll
+H:\BTL Web\BTL\FlowersShop\FlowersShop\bin\roslyn\System.Console.dll
+H:\BTL Web\BTL\FlowersShop\FlowersShop\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+H:\BTL Web\BTL\FlowersShop\FlowersShop\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+H:\BTL Web\BTL\FlowersShop\FlowersShop\bin\roslyn\System.Diagnostics.StackTrace.dll
+H:\BTL Web\BTL\FlowersShop\FlowersShop\bin\roslyn\System.Globalization.Calendars.dll
+H:\BTL Web\BTL\FlowersShop\FlowersShop\bin\roslyn\System.IO.Compression.dll
+H:\BTL Web\BTL\FlowersShop\FlowersShop\bin\roslyn\System.IO.Compression.ZipFile.dll
+H:\BTL Web\BTL\FlowersShop\FlowersShop\bin\roslyn\System.IO.FileSystem.dll
+H:\BTL Web\BTL\FlowersShop\FlowersShop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+H:\BTL Web\BTL\FlowersShop\FlowersShop\bin\roslyn\System.Net.Http.dll
+H:\BTL Web\BTL\FlowersShop\FlowersShop\bin\roslyn\System.Net.Sockets.dll
+H:\BTL Web\BTL\FlowersShop\FlowersShop\bin\roslyn\System.Reflection.Metadata.dll
+H:\BTL Web\BTL\FlowersShop\FlowersShop\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+H:\BTL Web\BTL\FlowersShop\FlowersShop\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+H:\BTL Web\BTL\FlowersShop\FlowersShop\bin\roslyn\System.Security.Cryptography.Encoding.dll
+H:\BTL Web\BTL\FlowersShop\FlowersShop\bin\roslyn\System.Security.Cryptography.Primitives.dll
+H:\BTL Web\BTL\FlowersShop\FlowersShop\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+H:\BTL Web\BTL\FlowersShop\FlowersShop\bin\roslyn\System.Text.Encoding.CodePages.dll
+H:\BTL Web\BTL\FlowersShop\FlowersShop\bin\roslyn\System.Threading.Tasks.Extensions.dll
+H:\BTL Web\BTL\FlowersShop\FlowersShop\bin\roslyn\System.ValueTuple.dll
+H:\BTL Web\BTL\FlowersShop\FlowersShop\bin\roslyn\System.Xml.ReaderWriter.dll
+H:\BTL Web\BTL\FlowersShop\FlowersShop\bin\roslyn\System.Xml.XmlDocument.dll
+H:\BTL Web\BTL\FlowersShop\FlowersShop\bin\roslyn\System.Xml.XPath.dll
+H:\BTL Web\BTL\FlowersShop\FlowersShop\bin\roslyn\System.Xml.XPath.XDocument.dll
+H:\BTL Web\BTL\FlowersShop\FlowersShop\bin\roslyn\vbc.exe
+H:\BTL Web\BTL\FlowersShop\FlowersShop\bin\roslyn\vbc.exe.config
+H:\BTL Web\BTL\FlowersShop\FlowersShop\bin\roslyn\vbc.rsp
+H:\BTL Web\BTL\FlowersShop\FlowersShop\bin\roslyn\VBCSCompiler.exe
+H:\BTL Web\BTL\FlowersShop\FlowersShop\bin\roslyn\VBCSCompiler.exe.config
+H:\BTL Web\BTL\FlowersShop\FlowersShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\BTL Web\BTL\FlowersShop\FlowersShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\BTL Web\BTL\FlowersShop\FlowersShop\obj\Debug\FlowersShop.csproj.AssemblyReference.cache
+H:\BTL Web\BTL\FlowersShop\FlowersShop\obj\Debug\FlowersShop.csproj.CoreCompileInputs.cache
+H:\BTL Web\BTL\FlowersShop\FlowersShop\obj\Debug\FlowersS.BB19F16C.Up2Date
+H:\BTL Web\BTL\FlowersShop\FlowersShop\obj\Debug\FlowersShop.dll
+H:\BTL Web\BTL\FlowersShop\FlowersShop\obj\Debug\FlowersShop.pdb
+D:\FlowersShop\FlowersShop\bin\FlowersShop.dll.config
+D:\FlowersShop\FlowersShop\bin\FlowersShop.dll
+D:\FlowersShop\FlowersShop\bin\FlowersShop.pdb
+D:\FlowersShop\FlowersShop\bin\roslyn\csc.exe
+D:\FlowersShop\FlowersShop\bin\roslyn\csc.exe.config
+D:\FlowersShop\FlowersShop\bin\roslyn\csc.rsp
+D:\FlowersShop\FlowersShop\bin\roslyn\csi.exe
+D:\FlowersShop\FlowersShop\bin\roslyn\csi.exe.config
+D:\FlowersShop\FlowersShop\bin\roslyn\csi.rsp
+D:\FlowersShop\FlowersShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\FlowersShop\FlowersShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\FlowersShop\FlowersShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\FlowersShop\FlowersShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\FlowersShop\FlowersShop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\FlowersShop\FlowersShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\FlowersShop\FlowersShop\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\FlowersShop\FlowersShop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\FlowersShop\FlowersShop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\FlowersShop\FlowersShop\bin\roslyn\Microsoft.Managed.Core.targets
+D:\FlowersShop\FlowersShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\FlowersShop\FlowersShop\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\FlowersShop\FlowersShop\bin\roslyn\System.AppContext.dll
+D:\FlowersShop\FlowersShop\bin\roslyn\System.Collections.Immutable.dll
+D:\FlowersShop\FlowersShop\bin\roslyn\System.Console.dll
+D:\FlowersShop\FlowersShop\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\FlowersShop\FlowersShop\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\FlowersShop\FlowersShop\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\FlowersShop\FlowersShop\bin\roslyn\System.Globalization.Calendars.dll
+D:\FlowersShop\FlowersShop\bin\roslyn\System.IO.Compression.dll
+D:\FlowersShop\FlowersShop\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\FlowersShop\FlowersShop\bin\roslyn\System.IO.FileSystem.dll
+D:\FlowersShop\FlowersShop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\FlowersShop\FlowersShop\bin\roslyn\System.Net.Http.dll
+D:\FlowersShop\FlowersShop\bin\roslyn\System.Net.Sockets.dll
+D:\FlowersShop\FlowersShop\bin\roslyn\System.Reflection.Metadata.dll
+D:\FlowersShop\FlowersShop\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\FlowersShop\FlowersShop\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\FlowersShop\FlowersShop\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\FlowersShop\FlowersShop\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\FlowersShop\FlowersShop\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\FlowersShop\FlowersShop\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\FlowersShop\FlowersShop\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\FlowersShop\FlowersShop\bin\roslyn\System.ValueTuple.dll
+D:\FlowersShop\FlowersShop\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\FlowersShop\FlowersShop\bin\roslyn\System.Xml.XmlDocument.dll
+D:\FlowersShop\FlowersShop\bin\roslyn\System.Xml.XPath.dll
+D:\FlowersShop\FlowersShop\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\FlowersShop\FlowersShop\bin\roslyn\vbc.exe
+D:\FlowersShop\FlowersShop\bin\roslyn\vbc.exe.config
+D:\FlowersShop\FlowersShop\bin\roslyn\vbc.rsp
+D:\FlowersShop\FlowersShop\bin\roslyn\VBCSCompiler.exe
+D:\FlowersShop\FlowersShop\bin\roslyn\VBCSCompiler.exe.config
+D:\FlowersShop\FlowersShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\FlowersShop\FlowersShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\FlowersShop\FlowersShop\obj\Debug\FlowersShop.csproj.AssemblyReference.cache
+D:\FlowersShop\FlowersShop\obj\Debug\FlowersShop.csproj.CoreCompileInputs.cache
+D:\FlowersShop\FlowersShop\obj\Debug\FlowersS.BB19F16C.Up2Date
+D:\FlowersShop\FlowersShop\obj\Debug\FlowersShop.dll
+D:\FlowersShop\FlowersShop\obj\Debug\FlowersShop.pdb
+D:\ltw\FlowersShop\FlowersShop\bin\FlowersShop.dll.config
+D:\ltw\FlowersShop\FlowersShop\bin\FlowersShop.dll
+D:\ltw\FlowersShop\FlowersShop\bin\FlowersShop.pdb
+D:\ltw\FlowersShop\FlowersShop\bin\roslyn\csc.exe
+D:\ltw\FlowersShop\FlowersShop\bin\roslyn\csc.exe.config
+D:\ltw\FlowersShop\FlowersShop\bin\roslyn\csc.rsp
+D:\ltw\FlowersShop\FlowersShop\bin\roslyn\csi.exe
+D:\ltw\FlowersShop\FlowersShop\bin\roslyn\csi.exe.config
+D:\ltw\FlowersShop\FlowersShop\bin\roslyn\csi.rsp
+D:\ltw\FlowersShop\FlowersShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ltw\FlowersShop\FlowersShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ltw\FlowersShop\FlowersShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\ltw\FlowersShop\FlowersShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ltw\FlowersShop\FlowersShop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\ltw\FlowersShop\FlowersShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ltw\FlowersShop\FlowersShop\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ltw\FlowersShop\FlowersShop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\ltw\FlowersShop\FlowersShop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\ltw\FlowersShop\FlowersShop\bin\roslyn\Microsoft.Managed.Core.targets
+D:\ltw\FlowersShop\FlowersShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ltw\FlowersShop\FlowersShop\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\ltw\FlowersShop\FlowersShop\bin\roslyn\System.AppContext.dll
+D:\ltw\FlowersShop\FlowersShop\bin\roslyn\System.Collections.Immutable.dll
+D:\ltw\FlowersShop\FlowersShop\bin\roslyn\System.Console.dll
+D:\ltw\FlowersShop\FlowersShop\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\ltw\FlowersShop\FlowersShop\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\ltw\FlowersShop\FlowersShop\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\ltw\FlowersShop\FlowersShop\bin\roslyn\System.Globalization.Calendars.dll
+D:\ltw\FlowersShop\FlowersShop\bin\roslyn\System.IO.Compression.dll
+D:\ltw\FlowersShop\FlowersShop\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\ltw\FlowersShop\FlowersShop\bin\roslyn\System.IO.FileSystem.dll
+D:\ltw\FlowersShop\FlowersShop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\ltw\FlowersShop\FlowersShop\bin\roslyn\System.Net.Http.dll
+D:\ltw\FlowersShop\FlowersShop\bin\roslyn\System.Net.Sockets.dll
+D:\ltw\FlowersShop\FlowersShop\bin\roslyn\System.Reflection.Metadata.dll
+D:\ltw\FlowersShop\FlowersShop\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\ltw\FlowersShop\FlowersShop\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\ltw\FlowersShop\FlowersShop\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\ltw\FlowersShop\FlowersShop\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\ltw\FlowersShop\FlowersShop\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\ltw\FlowersShop\FlowersShop\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\ltw\FlowersShop\FlowersShop\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\ltw\FlowersShop\FlowersShop\bin\roslyn\System.ValueTuple.dll
+D:\ltw\FlowersShop\FlowersShop\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\ltw\FlowersShop\FlowersShop\bin\roslyn\System.Xml.XmlDocument.dll
+D:\ltw\FlowersShop\FlowersShop\bin\roslyn\System.Xml.XPath.dll
+D:\ltw\FlowersShop\FlowersShop\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\ltw\FlowersShop\FlowersShop\bin\roslyn\vbc.exe
+D:\ltw\FlowersShop\FlowersShop\bin\roslyn\vbc.exe.config
+D:\ltw\FlowersShop\FlowersShop\bin\roslyn\vbc.rsp
+D:\ltw\FlowersShop\FlowersShop\bin\roslyn\VBCSCompiler.exe
+D:\ltw\FlowersShop\FlowersShop\bin\roslyn\VBCSCompiler.exe.config
+D:\ltw\FlowersShop\FlowersShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ltw\FlowersShop\FlowersShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ltw\FlowersShop\FlowersShop\obj\Debug\FlowersShop.csproj.AssemblyReference.cache
+D:\ltw\FlowersShop\FlowersShop\obj\Debug\FlowersShop.csproj.CoreCompileInputs.cache
+D:\ltw\FlowersShop\FlowersShop\obj\Debug\FlowersS.BB19F16C.Up2Date
+D:\ltw\FlowersShop\FlowersShop\obj\Debug\FlowersShop.dll
+D:\ltw\FlowersShop\FlowersShop\obj\Debug\FlowersShop.pdb
